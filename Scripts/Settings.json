@@ -1,0 +1,32 @@
+{
+	"Settings": [
+		{
+			"name": "Volume",
+			"value": 50 
+		},
+		{
+			"name": "Key 1",
+			"price": "A"
+		},
+		{
+			"name": "Key 2",
+			"price": "S"
+		},
+		{
+			"name": "Key 3",
+			"price": "D"
+		},
+		{
+			"name": "Key 3",
+			"price": "J"
+		},
+		{
+			"name": "Key 4",
+			"price": "K"
+		},
+		{
+			"name": "Key 5",
+			"price": "L"
+		}
+			]
+}
