@@ -1,0 +1,58 @@
+[gd_scene format=3 uid="uid://bxdhdaskd2w3k"]
+
+[ext_resource type="Texture2D" uid="uid://c60r7armd84gm" path="res://Main menu image.png" id="1_glbon"]
+[ext_resource type="Script" uid="uid://b81apx0gdvxor" path="res://Mm_ContinueButton.cs" id="2_nlkkf"]
+[ext_resource type="Script" uid="uid://bnpve6810wqe1" path="res://Mm_LeaderboardButton.cs" id="3_qe12f"]
+[ext_resource type="Script" uid="uid://cdik56qkmhcen" path="res://Mm_SettingsButton.cs" id="4_8qtwp"]
+[ext_resource type="Script" uid="uid://bi2776lygg1o0" path="res://Mm_ExitButton.cs" id="5_dy7ct"]
+
+[node name="Main Menu" type="Node2D" unique_id=2010003792]
+
+[node name="Menu Box" type="Control" parent="." unique_id=2332417]
+custom_minimum_size = Vector2(1500, 900)
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Menu Background" type="TextureRect" parent="Menu Box" unique_id=1985974381]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_glbon")
+expand_mode = 1
+
+[node name="Continue-Button" type="TextureButton" parent="Menu Box" unique_id=1739163656]
+layout_mode = 0
+offset_left = 557.0
+offset_top = 351.0
+offset_right = 946.0
+offset_bottom = 440.0
+script = ExtResource("2_nlkkf")
+
+[node name="Leaderboard-Button" type="TextureButton" parent="Menu Box" unique_id=1224867721]
+layout_mode = 0
+offset_left = 555.0
+offset_top = 458.0
+offset_right = 944.0
+offset_bottom = 547.0
+script = ExtResource("3_qe12f")
+
+[node name="Settings-Button" type="TextureButton" parent="Menu Box" unique_id=1175665959]
+layout_mode = 0
+offset_left = 556.0
+offset_top = 562.0
+offset_right = 945.0
+offset_bottom = 651.0
+script = ExtResource("4_8qtwp")
+
+[node name="Exit-Button" type="TextureButton" parent="Menu Box" unique_id=1916633640]
+layout_mode = 0
+offset_left = 556.0
+offset_top = 663.0
+offset_right = 945.0
+offset_bottom = 752.0
+script = ExtResource("5_dy7ct")

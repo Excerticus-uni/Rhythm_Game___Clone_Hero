@@ -1,0 +1,22 @@
+[gd_scene format=3 uid="uid://c6duxcka0soc1"]
+
+[ext_resource type="Texture2D" uid="uid://blj8ex8wo2t1u" path="res://Hard_level_background.png" id="1_bff67"]
+
+[node name="Hard_level" type="Node2D" unique_id=634629556]
+
+[node name="Control" type="Control" parent="." unique_id=1590911861]
+custom_minimum_size = Vector2(1500, 900)
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="TextureRect" type="TextureRect" parent="Control" unique_id=1804093004]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_bff67")
+expand_mode = 1

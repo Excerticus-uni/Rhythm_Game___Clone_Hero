@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://banvdekoabi1d"]
+
+[ext_resource type="Texture2D" uid="uid://dix7ch2w2y3du" path="res://Guitar Selector Background.png" id="1_x8n75"]
+
+[node name="Guitar Selector" type="Node2D" unique_id=1673598375]
+
+[node name="Control" type="Control" parent="." unique_id=1424021721]
+custom_minimum_size = Vector2(1500, 900)
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="TextureRect" type="TextureRect" parent="Control" unique_id=263848821]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_x8n75")
