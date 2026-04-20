@@ -1,6 +1,6 @@
-[gd_scene format=3 uid="uid://banvdekoabi1d"]
+[gd_scene format=3 uid="uid://cfak50xi0ii57"]
 
-[ext_resource type="Texture2D" uid="uid://dix7ch2w2y3du" path="res://Guitar Selector Background.png" id="1_x8n75"]
+[ext_resource type="Texture2D" path="res://Guitar Selector Background.png" id="1_x8n75"]
 
 [node name="Guitar Selector" type="Node2D" unique_id=1673598375]
 

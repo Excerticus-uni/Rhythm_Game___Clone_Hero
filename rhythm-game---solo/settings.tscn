@@ -1,6 +1,6 @@
-[gd_scene format=3 uid="uid://dbng3nsar1dxt"]
+[gd_scene format=3 uid="uid://js7etyoma7an"]
 
-[ext_resource type="Texture2D" uid="uid://nxlqrch62nrj" path="res://Base Background.png" id="1_x2hje"]
+[ext_resource type="Texture2D" path="res://Base Background.png" id="1_x2hje"]
 
 [node name="Settings" type="Node2D" unique_id=1990710569]
 

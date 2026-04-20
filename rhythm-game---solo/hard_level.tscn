@@ -1,6 +1,6 @@
-[gd_scene format=3 uid="uid://c6duxcka0soc1"]
+[gd_scene format=3 uid="uid://dced53o5scru6"]
 
-[ext_resource type="Texture2D" uid="uid://blj8ex8wo2t1u" path="res://Hard_level_background.png" id="1_bff67"]
+[ext_resource type="Texture2D" path="res://Hard_level_background.png" id="1_bff67"]
 
 [node name="Hard_level" type="Node2D" unique_id=634629556]
 

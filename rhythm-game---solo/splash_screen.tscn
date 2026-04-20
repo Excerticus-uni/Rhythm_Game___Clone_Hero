@@ -1,7 +1,7 @@
-[gd_scene format=3 uid="uid://xdk76033eeoa"]
+[gd_scene format=3 uid="uid://br13jikpntbct"]
 
-[ext_resource type="Texture2D" uid="uid://ciesdcydpptyh" path="res://Splash menu.png" id="1_el3v4"]
-[ext_resource type="Script" uid="uid://c7y8hw7tntx5h" path="res://SplashButtonPress.cs" id="2_arguk"]
+[ext_resource type="Texture2D" path="res://Splash menu.png" id="1_el3v4"]
+[ext_resource type="Script" path="res://SplashButtonPress.cs" id="2_arguk"]
 
 [node name="Splash Screen" type="Node2D" unique_id=1086743055]
 

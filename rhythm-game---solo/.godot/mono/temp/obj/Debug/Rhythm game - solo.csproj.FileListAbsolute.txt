@@ -1,0 +1,18 @@
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\obj\Debug\Rhythm game - solo.csproj.AssemblyReference.cache
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\obj\Debug\Rhythm game - solo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\obj\Debug\Rhythm game - solo.AssemblyInfoInputs.cache
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\obj\Debug\Rhythm game - solo.AssemblyInfo.cs
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\obj\Debug\Rhythm game - solo.csproj.CoreCompileInputs.cache
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\obj\Debug\Rhythm game - solo.sourcelink.json
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\bin\Debug\Rhythm game - solo.deps.json
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\bin\Debug\Rhythm game - solo.runtimeconfig.json
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\bin\Debug\Rhythm game - solo.dll
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\bin\Debug\Rhythm game - solo.pdb
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\obj\Debug\Rhythm g.1C90A2D9.Up2Date
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\obj\Debug\Rhythm game - solo.dll
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\obj\Debug\refint\Rhythm game - solo.dll
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\obj\Debug\Rhythm game - solo.pdb
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\obj\Debug\Rhythm game - solo.genruntimeconfig.cache
+C:\Users\gcolw\OneDrive\Documents\GitHub\Rhythm_Game___Clone_Hero\rhythm-game---solo\.godot\mono\temp\obj\Debug\ref\Rhythm game - solo.dll

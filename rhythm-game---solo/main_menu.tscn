@@ -1,10 +1,10 @@
-[gd_scene format=3 uid="uid://bxdhdaskd2w3k"]
+[gd_scene format=3 uid="uid://bbdahm7xcga66"]
 
-[ext_resource type="Texture2D" uid="uid://c60r7armd84gm" path="res://Main menu image.png" id="1_glbon"]
-[ext_resource type="Script" uid="uid://b81apx0gdvxor" path="res://Mm_ContinueButton.cs" id="2_nlkkf"]
-[ext_resource type="Script" uid="uid://bnpve6810wqe1" path="res://Mm_LeaderboardButton.cs" id="3_qe12f"]
-[ext_resource type="Script" uid="uid://cdik56qkmhcen" path="res://Mm_SettingsButton.cs" id="4_8qtwp"]
-[ext_resource type="Script" uid="uid://bi2776lygg1o0" path="res://Mm_ExitButton.cs" id="5_dy7ct"]
+[ext_resource type="Texture2D" path="res://Main menu image.png" id="1_glbon"]
+[ext_resource type="Script" path="res://Mm_ContinueButton.cs" id="2_nlkkf"]
+[ext_resource type="Script" path="res://Mm_LeaderboardButton.cs" id="3_qe12f"]
+[ext_resource type="Script" path="res://Mm_SettingsButton.cs" id="4_8qtwp"]
+[ext_resource type="Script" path="res://Mm_ExitButton.cs" id="5_dy7ct"]
 
 [node name="Main Menu" type="Node2D" unique_id=2010003792]
 

@@ -1,0 +1,35 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1775209370
+easy_level.tscn::PackedScene::2727771074927371141::1775209333::0::1::::<><><>0<>0<><>::res://Easy_level_Background.png
+guitar_selector.tscn::PackedScene::5124447678332647244::1775209330::0::1::::<><><>0<>0<><>::res://Guitar Selector Background.png
+hard_level.tscn::PackedScene::7308134467835334907::1775209332::0::1::::<><><>0<>0<><>::res://Hard_level_background.png
+icon.svg::CompressedTexture2D::3758224981580431414::1773659451::1773659460::1::::<><><>0<>0<>7b6fd6cda9a7383eead2ba8333501a71<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+leaderboard.tscn::PackedScene::2498868472034255530::1775209331::0::1::::<><><>0<>0<><>::res://Base Background.png
+main_menu.tscn::PackedScene::2462815841912514413::1775209329::0::1::::<><><>0<>0<><>::res://Main menu image.png<>res://Mm_ContinueButton.cs<>res://Mm_LeaderboardButton.cs<>res://Mm_SettingsButton.cs<>res://Mm_ExitButton.cs
+settings.tscn::PackedScene::670809514930641549::1775209332::0::1::::<><><>0<>0<><>::res://Base Background.png
+splash_screen.tscn::PackedScene::3635021431422307875::1775209327::0::1::::<><><>0<>0<><>::res://Splash menu.png<>res://SplashButtonPress.cs
+::res://Assets/::1775209024
+::res://Assets/Audio/::1775209037
+default_bus_layout.tres::AudioBusLayout::1732141368082578509::1773664806::0::1::::<><><>0<>0<><>::
+::res://Assets/Backgrounds/::1775208953
+Base Background.png::CompressedTexture2D::960633011607817767::1773663797::1775208953::1::::<><><>0<>0<>b6c8fa5bc5ee030cbb8c27523cb44b51<>res://.godot/imported/Base Background.png-6085bb01f8e7de939361d83dd11374f4.ctex::
+Easy_level_Background.png::CompressedTexture2D::3227669223347457505::1773665320::1775208953::1::::<><><>0<>0<>51d540e6d39beecf2ce5b9ed67433710<>res://.godot/imported/Easy_level_Background.png-58f942c50810fa6d694ce297e6d856b5.ctex::
+Guitar Selector Background.png::CompressedTexture2D::7770200414293080154::1773246067::1775208953::1::::<><><>0<>0<>faa809117734bc4a9d4bca404f0d7580<>res://.godot/imported/Guitar Selector Background.png-0d6eea28d0731c80285f63013b214770.ctex::
+Hard_level_background.png::CompressedTexture2D::3179089427469879308::1773664941::1775208953::1::::<><><>0<>0<>0aa201302a48d858833f4d8e7a23bfc4<>res://.godot/imported/Hard_level_background.png-ba377a52642ac735016e38688c111d23.ctex::
+Main menu image.png::CompressedTexture2D::7001394325110926916::1773662739::1775208953::1::::<><><>0<>0<>c760da4ccc12450007863fc85775ceb1<>res://.godot/imported/Main menu image.png-86db2f15deca76cfe06a6daecb481ab9.ctex::
+Splash menu.png::CompressedTexture2D::5343708033037181259::1773245424::1775208953::1::::<><><>0<>0<>548285a4b190cd74ce09806e5189c09e<>res://.godot/imported/Splash menu.png-e52726e67c291495032c52fddd61516a.ctex::
+::res://Assets/Scripts/::1775208103
+Mm_ContinueButton.cs::CSharpScript::4756354379196935073::1773663868::0::1::::<><><>0<>0<><>::
+Mm_ExitButton.cs::CSharpScript::3005671367645895213::1773663868::0::1::::<><><>0<>0<><>::
+Mm_LeaderboardButton.cs::CSharpScript::3331125197740146978::1773663868::0::1::::<><><>0<>0<><>::
+Mm_SettingsButton.cs::CSharpScript::5000585317488981973::1773663868::0::1::::<><><>0<>0<><>::
+SplashButtonPress.cs::CSharpScript::7070446797048164903::1773686720::0::1::::<><><>0<>0<><>::
+::res://Git/::1775209303
+::res://Scenes/::1775209317
+easy_level.tscn::PackedScene::6220813569378718593::1775209317::0::1::::<><><>0<>0<><>::uid://bl8rigcgqbnsb::::res://Easy_level_Background.png
+guitar_selector.tscn::PackedScene::2414538234903278687::1775209317::0::1::::<><><>0<>0<><>::uid://dix7ch2w2y3du::::res://Guitar Selector Background.png
+hard_level.tscn::PackedScene::6956144187071403830::1775209317::0::1::::<><><>0<>0<><>::uid://blj8ex8wo2t1u::::res://Hard_level_background.png
+leaderboard.tscn::PackedScene::5476345145865395481::1775209317::0::1::::<><><>0<>0<><>::uid://nxlqrch62nrj::::res://Base Background.png
+main_menu.tscn::PackedScene::4007387625227035490::1775209317::0::1::::<><><>0<>0<><>::uid://c60r7armd84gm::::res://Main menu image.png<>uid://b81apx0gdvxor::::res://Mm_ContinueButton.cs<>uid://bnpve6810wqe1::::res://Mm_LeaderboardButton.cs<>uid://cdik56qkmhcen::::res://Mm_SettingsButton.cs<>uid://bi2776lygg1o0::::res://Mm_ExitButton.cs
+settings.tscn::PackedScene::7256702820339823757::1775209317::0::1::::<><><>0<>0<><>::uid://nxlqrch62nrj::::res://Base Background.png
+splash_screen.tscn::PackedScene::1621202520423281932::1775209317::0::1::::<><><>0<>0<><>::uid://ciesdcydpptyh::::res://Splash menu.png<>uid://c7y8hw7tntx5h::::res://SplashButtonPress.cs

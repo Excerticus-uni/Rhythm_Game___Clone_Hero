@@ -1,6 +1,6 @@
-[gd_scene format=3 uid="uid://cka1us0idx4s0"]
+[gd_scene format=3 uid="uid://bbup87o0p417k"]
 
-[ext_resource type="Texture2D" uid="uid://nxlqrch62nrj" path="res://Base Background.png" id="1_3ilyb"]
+[ext_resource type="Texture2D" path="res://Base Background.png" id="1_3ilyb"]
 
 [node name="Leaderboard" type="Node2D" unique_id=26157887]
 
